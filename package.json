@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/ysden123/node-pre-commit-test#readme",
   "devDependencies": {
-    "node-pre-commit": "0.0.2"
+    "node-pre-commit": "0.0.3-beta"
   }
 }
