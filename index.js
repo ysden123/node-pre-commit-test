@@ -1,2 +1,2 @@
 'use strict';
-const v = require
+const v = require('v')
