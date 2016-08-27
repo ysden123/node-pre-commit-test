@@ -1,0 +1,26 @@
+{
+  "name": "node-pre-commit-test",
+  "version": "1.0.0",
+  "description": "Test project to debug node-pre-commit project",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysden123/node-pre-commit-test.git"
+  },
+  "keywords": [
+    "pre-commit",
+    "test"
+  ],
+  "author": "Yuriy Stul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ysden123/node-pre-commit-test/issues"
+  },
+  "homepage": "https://github.com/ysden123/node-pre-commit-test#readme",
+  "devDependencies": {
+    "node-pre-commit": "0.0.2"
+  }
+}
