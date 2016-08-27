@@ -6,6 +6,9 @@
   "scripts": {
     "test": "exit 1"
   },
+  "pre-commit": [
+    "test"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ysden123/node-pre-commit-test.git"
